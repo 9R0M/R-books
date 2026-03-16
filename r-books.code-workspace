@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "name": "GitHub-Rulesets",
+            "path": "./infra/github-rulesets"
+        },
+	{
+	    "name": "Root",
+	    "path": "./"
+	},
+    ]
+}
