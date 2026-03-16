@@ -24,6 +24,8 @@ Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         new file:   practice-git/git-memo.md
 
+ git commit -m "git-memo"
+
 ```
 
 gitの用語
